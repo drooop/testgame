@@ -1,0 +1,4 @@
+repository "1028@sinodrop@cloud"
+  path "/"
+    br "/main"
+    co "/main"
